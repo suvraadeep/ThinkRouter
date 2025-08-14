@@ -1,5 +1,5 @@
 # ThinkRouter
-**ThinkRouter** is an intelligent routing layer for Large Language Models (LLMs) that optimizes every AI request for **cost, speed, and performance**—without sacrificing quality.
+**ThinkRouter** is an intelligent routing layer for Large Language Models (LLMs) that optimizes every AI request for **cost, speed, and performance** without sacrificing quality.
 
 Instead of locking you into one expensive model, ThinkRouter dynamically analyzes each prompt and sends it to the most suitable model in real time. Simple queries are handled by lightweight, affordable models, while complex reasoning tasks are routed to premium LLMs. The result? **Up to 70% cost savings** compared to single-model solutions.
 
