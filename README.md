@@ -18,6 +18,3 @@ ThinkRouter can be deployed as a drop-in API replacement, a Python package, or a
 Whether you’re a **startup scaling AI features**, an **enterprise with high query volumes**, or a **multi-agent system builder**, ThinkRouter ensures you’re always using the right model for the job. By combining advanced prompt analysis with intelligent routing logic, it delivers **smarter AI allocation** and significant operational savings.
 
 **Smarter routing. Lower costs. Better results.**
-
-If you want, I can also create a **sleek one-liner tagline** to place right under the ThinkRouter logo so it feels brand-ready. That would make it pop in marketing and pitch decks.
-
